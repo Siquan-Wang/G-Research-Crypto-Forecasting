@@ -1,0 +1,3 @@
+1. Based on the real transaction data of 14 cryptocurrencies (highest price, lowest price, opening price, closing price, trading volume, etc.), extract features such as the increase and volume ratio of the last N days; and construct a large-cap index including 14 currencies , and calculate the increase, volume ratio and other characteristics.
+2. On the basis of the above features, build machine learning LightGBM and CatBoost models, use RMSE as the loss function, and use sklearn, lightgbm and other modules to build models for training, so as to achieve the effect of predicting the target when given transaction data.
+3. The results of the LightGBM and CatBoost models are equally weighted to achieve the top4% ranking.
