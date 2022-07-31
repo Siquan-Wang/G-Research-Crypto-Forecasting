@@ -38,5 +38,5 @@ N/A
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
-* [competition website]([https://github.com/matiassingers/awesome-readme](https://www.kaggle.com/competitions/g-research-crypto-forecasting))
+competition website:
+* [https://github.com/matiassingers/awesome-readme](https://www.kaggle.com/competitions/g-research-crypto-forecasting]
