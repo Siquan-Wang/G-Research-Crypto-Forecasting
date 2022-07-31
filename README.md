@@ -39,4 +39,4 @@ N/A
 ## Acknowledgments
 
 competition website:
-* [G-Research Crypto Forecasting](https://www.kaggle.com/competitions/g-research-crypto-forecasting]
+* https://www.kaggle.com/competitions/g-research-crypto-forecasting
